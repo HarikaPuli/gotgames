@@ -458,7 +458,7 @@ ul {
 @media only screen and (min-width: 1200px) and (max-width: 3640px) {
   /* line 238, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
   .container {
-    max-width: 1200px;
+    max-width: 1800px;
   }
 }
 
@@ -2189,7 +2189,7 @@ ul {
 
 /* line 9, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
 .main_menu .navbar-brand {
-  padding-top: rem;
+  padding-top: 1rem;
   padding-bottom: 0px;
 }
 
