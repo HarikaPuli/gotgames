@@ -2180,11 +2180,12 @@ ul {
 /**************menu part start*****************/
 /* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
 .main_menu {
-  position: absolute;
+  position:relative;
   left: 0;
   top: 0;
   width: 100%;
   z-index: 999;
+  height: 160px;
 }
 
 /* line 9, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
@@ -2389,7 +2390,7 @@ ul {
   transform: scale(1, 0);
   display: block;
   border: 0px solid transparent;
-  background-color: #ff0000;
+  background-color: #1f213f;
 }
 
 /* line 194, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
@@ -2397,7 +2398,7 @@ ul {
   font-size: 14px;
   padding: 8px 20px !important;
   color: #fff !important;
-  background-color: #ff0000;
+  background-color: #1f213f;
   text-transform: capitalize;
 }
 
@@ -2572,7 +2573,7 @@ ul {
 /* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
 .banner_part {
   position: relative;
-  background-image: url(../img/banner_bg.png);
+  background-image: url(../img/breadcrumb.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
@@ -3569,7 +3570,7 @@ ul {
 
 /* line 162, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_feature_part.scss */
 .feature_part .single_feature_part img i {
-  color: #0c2e60;
+  color: #2f62af;
   font-size: 24px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
@@ -3868,7 +3869,7 @@ ul {
 
 /* line 69, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_use_sasu.scss */
 .use_sasu .single_feature_part img i {
-  color: #0c2e60;
+  color: #8a9fbe;
   font-size: 24px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
