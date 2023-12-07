@@ -2180,7 +2180,7 @@ ul {
 /**************menu part start*****************/
 /* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
 .main_menu {
-  position:absolute;
+  position:relative;
   left: 0;
   top: 0;
   width: 100%;
@@ -2576,7 +2576,7 @@ ul {
   background-image: url(../img/breadcrumb.png);
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: right;
+  background-position: center;
 }
 
 /* line 8, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
