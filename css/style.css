@@ -2576,7 +2576,7 @@ ul {
   background-image: url(../img/breadcrumb.png);
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center;
+  background-position:top;
 }
 
 /* line 8, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
